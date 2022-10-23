@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hey hey, I'm Aryan 👋
+
+I'm a student, and a software developer from the UK / Qatar / India
 
 <!--
-**aryanprince/aryanprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/aryanprince">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanprince&hide=issues&count_private=true&show_icons=true&theme=material-palenight" />
-</a>
-<a href="https://github.com/aryanprince">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanprince&layout=compact&theme=material-palenight" />
-</a>
+<!--
+- 🎮 I play ~~Valorant sometimes _(Plat peak)_~~ single player (story driven) games
+-->
+
+| <a href="https://github.com/aryanprince"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanprince&hide=issues&count_private=true&show_icons=true&theme=material-palenight&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/aryanprince"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanprince&layout=compact&theme=material-palenight&hide_border=true" /></a> |
+| ------------- | ------------- |
