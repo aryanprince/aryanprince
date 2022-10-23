@@ -1,4 +1,4 @@
-## Hey hey, I'm Aryan 👋
+## Hey hey, I'm Aryan <img src="https://raw.githubusercontent.com/aryanprince/aryanprince/main/assets/wave.gif" height="25px" width="25px">
 
 I'm a student, and a software developer from the UK / Qatar / India
 
