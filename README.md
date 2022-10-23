@@ -2,10 +2,11 @@
 
 I'm a student, and a software developer from the UK / Qatar / India
 
+
+
 - 🔭 Checkout my personal portfolio at [aryanprince.com](https://aryanprince.com)
 - 📫 You can reach me at [hello@aryanprince.com](mailto:hello@aryanprince.com)
 - 🌱 I’m currently learning Reactjs, DSA, and AWS
-- ⚡ In my free time I solve problems on LeetCode and read about tech 
 - 🎮 I play ~~Valorant sometimes _(Plat peak)_~~ single player (story driven) games
 - ❤️ Feel free to go through some of my projects like [Muki Music](https://github.com/aryanprince/muki-music), [Google Clone](https://github.com/aryanprince/clone-google), and [Quora Unblocker](https://github.com/aryanprince/quora-unblocker)
 
