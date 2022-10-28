@@ -34,8 +34,18 @@ I'm a student, and a software developer from the <img src="https://cdn-icons-png
 <!-- GITHUB STATS -->
 <br>
 
+<div>
+<img src="https://activity-graph.herokuapp.com/graph?username=aryanprince&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&area=true">
+</div>
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aryanprince&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanprince&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
+</p>
+
+<!-- PREV GITHUB STATS
 | <a href="https://github.com/aryanprince"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanprince&hide=issues&count_private=true&show_icons=true&theme=material-palenight&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/aryanprince"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanprince&layout=compact&theme=material-palenight&hide_border=true" /></a> |
 | ------------- | ------------- |
+ -->
 
 <!-- PROFILE VIEWS BADGE -->
 ![](https://komarev.com/ghpvc/?username=aryanprince&color=b888da&style=for-the-badge)
