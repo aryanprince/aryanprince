@@ -1,7 +1,7 @@
 <h1 align="center"> Hey hey, I'm Aryan <img src="https://raw.githubusercontent.com/aryanprince/aryanprince/main/assets/wave.gif" height="25px" width="25px"> </h1>
 
 <!-- ABOUT ME -->
-<p align="center"> I'm a student, and a software developer from the <img src="https://cdn-icons-png.flaticon.com/512/299/299688.png" width="13"/> UK / <img src="https://cdn-icons-png.flaticon.com/512/299/299922.png" width="13"/> Qatar / <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> India </p>
+<p align="center"> I'm a comp-sci student based in the UK </p>
 
 <hr>
 
