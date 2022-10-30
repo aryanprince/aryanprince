@@ -44,7 +44,6 @@
 -->
 
 <!-- GITHUB STATS -->
-<br>
 
 <div>
 <img src="https://activity-graph.herokuapp.com/graph?username=aryanprince&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&area=true">
