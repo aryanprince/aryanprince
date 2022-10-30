@@ -1,7 +1,9 @@
-## Hey hey, I'm Aryan <img src="https://raw.githubusercontent.com/aryanprince/aryanprince/main/assets/wave.gif" height="25px" width="25px">
+<h1 align="center"> Hey hey, I'm Aryan <img src="https://raw.githubusercontent.com/aryanprince/aryanprince/main/assets/wave.gif" height="25px" width="25px"> </h1>
 
 <!-- ABOUT ME -->
-I'm a student, and a software developer from the <img src="https://cdn-icons-png.flaticon.com/512/299/299688.png" width="13"/> UK / <img src="https://cdn-icons-png.flaticon.com/512/299/299922.png" width="13"/> Qatar / <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> India
+<p align="center"> I'm a student, and a software developer from the <img src="https://cdn-icons-png.flaticon.com/512/299/299688.png" width="13"/> UK / <img src="https://cdn-icons-png.flaticon.com/512/299/299922.png" width="13"/> Qatar / <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> India </p>
+
+<hr>
 
 - 🔭 Checkout my personal portfolio at [aryanprince.com](https://aryanprince.com)
 - 📫 You can reach me at [hello@aryanprince.com](mailto:hello@aryanprince.com)
@@ -10,6 +12,15 @@ I'm a student, and a software developer from the <img src="https://cdn-icons-png
 - ❤️ Feel free to go through some of my projects like [Muki Music](https://github.com/aryanprince/muki-music), [Google Clone](https://github.com/aryanprince/clone-google), and [Quora Unblocker](https://github.com/aryanprince/quora-unblocker)
 
 <!-- TECH STACK LOGOS -->
+## 🛠️ My Tech Stack 
+
+|           |             |
+|-----------|-------------|
+| Web-Dev   | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| Languages | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| Tools     | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  |
+
+<!-- OLD TECH STACK LOGOS 
 ## 🛠️ My Tech Stack 
 <div>
   <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
@@ -30,6 +41,7 @@ I'm a student, and a software developer from the <img src="https://cdn-icons-png
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
 </div>
+-->
 
 <!-- GITHUB STATS -->
 <br>
