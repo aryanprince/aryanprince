@@ -7,7 +7,7 @@
 ## about me
 
 - ✨ i play around in the web dev world, mostly with Next.js, making cool little projects come to life
-- 🚀 currently working on [UniTrack]() - an open-source attendance monitoring system for universities
+- 🚀 currently working on [UniTrack](https://github.com/UniTrackApp) - an open-source attendance monitoring system for universities
 - 🌱 learning DSA and new Next.js features like RSCs and Server Actions
 - 📌 feel free to check out my pinned or my other public repos to see what i've been working on
 - 🎮 i like playing ~~valorant sometimes _(plat peak)_~~ single player (story driven) games
