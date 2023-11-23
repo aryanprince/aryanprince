@@ -21,14 +21,14 @@
 current go to tech stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=blue)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next JS](https://img.shields.io/badge/Next.js%2014-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React%2018-black.svg?style=for-the-badge&logo=react&logoColor=61dafb)
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)
 ![tRPC](https://img.shields.io/badge/tRPC-black.svg?style=for-the-badge&logo=tRPC&logoColor=00B9FF)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma%20ORM-black?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![PlanetScale](https://img.shields.io/badge/planetscale-black.svg?style=for-the-badge&logo=planetscale&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-black?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Expo](https://img.shields.io/badge/expo%20(React%20Native)-black?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20actions-black.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=35b393)
