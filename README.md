@@ -1,70 +1,59 @@
-<!-- 1. INTRODUCTION -->
-<h1 align="center"> hey hey, i'm aryan <img src="https://raw.githubusercontent.com/aryanprince/aryanprince/main/assets/wave.gif" height="25px" width="25px"> </h1>
+# Hey, I'm Aryan 👋
 
-<!-- 2. ABOUT ME -->
-<p align="center"> i make software + design </p>
+Hands-on CTO and founding engineer building web, mobile and AI products.
 
-## about me
+I lead engineering at **PortzApp**, from product architecture and implementation to cloud infrastructure and releases. My work includes modernizing a legacy SaaS application, building a tool-calling AI assistant, and automating engineering workflows.
 
-- ✨ i play around in the web dev world, mostly with Next.js, making cool little projects come to life
-- 🚀 currently working on [UniTrack](https://github.com/UniTrackApp) - an open-source attendance monitoring system for universities
-- 🌱 learning DSA and new Next.js features like RSCs and Server Actions
-- 📌 feel free to check out my pinned or my other public repos to see what i've been working on
-- 🎮 i like playing ~~valorant sometimes _(plat peak)_~~ single player (story driven) games
-- 💫 check out my portfolio at [aryanprince.com](https://aryanprince.com)
-- 💬 you can reach me at [hello@aryanprince.com](mailto:hello@aryanprince.com) or `.aryxn` on discord
+Previously, I led **Trilogy Health's** mobile app rebuild and launch, and helped build **Parabola9's** customer-facing dashboard and agentic AI workflows.
 
-<!-- 3. TECH STACK LOGOS -->
+[Portfolio](https://aryanprince.com) · [LinkedIn](https://www.linkedin.com/in/aryanprince/) · [Email](mailto:hello@aryanprince.com)
 
-## my tech stack
+## Selected projects
 
-current go to tech stack
+- **[Skill Sync](https://github.com/aryanprince/skill-sync)**: a native macOS menu bar app for organizing coding-agent skills and MCP servers.
+- **[svgl-react](https://github.com/aryanprince/svgl-react)**: a React component library for SVG logos from SVGL.
+- **[create-docker-db](https://github.com/aryanprince/create-docker-db)**: a CLI for scaffolding local databases with Docker Compose.
+- **[Campus Hub](https://github.com/aryanprince/campus-hub)**: a university management project with independently deployed services in a Next.js monorepo.
+- **[UniTrack](https://github.com/UniTrackApp/dashboard)**: an attendance dashboard connected to RFID-based tracking.
 
-![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=blue)
-![Next JS](https://img.shields.io/badge/Next.js%2014-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React%2018-black.svg?style=for-the-badge&logo=react&logoColor=61dafb)
-![TailwindCSS](https://img.shields.io/badge/tailwind%20css-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)
-![tRPC](https://img.shields.io/badge/tRPC-black.svg?style=for-the-badge&logo=tRPC&logoColor=00B9FF)
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-black?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
-![PlanetScale](https://img.shields.io/badge/planetscale-black.svg?style=for-the-badge&logo=planetscale&logoColor=white)
-![Expo](https://img.shields.io/badge/expo%20(React%20Native)-black?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20actions-black.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=35b393)
-![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=figma)
+## Tools I work with
 
-sometimes also use
+**Web and mobile**
 
-![Astro](https://img.shields.io/badge/-Astro-black?style=for-the-badge&logo=astro&logoColor=astro)
-![Vite](https://img.shields.io/badge/vite-black.svg?style=for-the-badge&logo=vite&logoColor=vite)
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=f2c83f)
-![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift&logoColor=swift)
-![Kotlin](https://img.shields.io/badge/kotlin-black.svg?style=for-the-badge&logo=kotlin&logoColor=kotlin)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-111111?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-111111?style=flat-square&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white)
 
-used to use, were nice, but abandoned
+**Data and infrastructure**
 
-![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![.Net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=c792ea)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=ea901d)
-![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
-![Firebase](https://img.shields.io/badge/firebase-black.svg?style=for-the-badge&logo=firebase)
-![Windows](https://img.shields.io/badge/Windows-black.svg?style=for-the-badge&logo=Windows%2011&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=white)
 
-<!-- 4. GITHUB STATS -->
+**Quality and observability**
 
-## my github stats
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-111111?style=flat-square&logo=opentelemetry&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-111111?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-111111?style=flat-square&logo=posthog&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-111111?style=flat-square)
+![Effect](https://img.shields.io/badge/Effect-111111?style=flat-square&logo=effect&logoColor=white)
 
-<div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanprince&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=last+30+days&area=true">
-</div>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aryanprince&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight&hide=contribs&hide_rank=true&custom_title=aryan%27s+github+stats" width="350" height="192"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanprince&layout=compact&hide=html,css,scss&theme=material-palenight&custom_title=most+used+langs"  width="350"></a>
-</p>
+I also build coding-agent harnesses with reusable skills, MCP integrations, automated review loops and scheduled performance and security checks.
 
-<!-- 5. WAKATIME + PROFILE VIEWS BADGE -->
-<img align="right" src="https://komarev.com/ghpvc/?username=aryanprince&color=b888da&style=for-the-badge" >
-<img align="right" src="https://wakatime-aryan.deno.dev/api/badge?style=for-the-badge&color=b888da&label=wakatime+(hours+spent+coding)" >
-<hr>
+## GitHub activity
+
+These cards summarize public GitHub activity and refresh daily. Most of my product work lives in private repositories.
+
+![Public GitHub statistics](./profile/stats.svg)
+![Languages across public repositories](./profile/top-langs.svg)
+
+Outside code, I enjoy story-driven single-player games.
