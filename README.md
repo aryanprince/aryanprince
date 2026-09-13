@@ -51,3 +51,5 @@ Previously, I led **Trilogy Health's** mobile app rebuild and launch, and helped
 
 ![Public GitHub statistics](./profile/stats.svg)
 ![Languages across public repositories](./profile/top-langs.svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=aryanprince&color=555555&style=flat-square)
