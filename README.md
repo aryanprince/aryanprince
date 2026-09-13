@@ -8,7 +8,7 @@ Previously, I led **Trilogy Health's** mobile app rebuild and launch, and helped
 
 [Portfolio](https://aryanprince.com) · [LinkedIn](https://www.linkedin.com/in/aryanprince/) · [Email](mailto:hello@aryanprince.com)
 
-## Selected projects
+## Things I’ve built
 
 - **[Skill Sync](https://github.com/aryanprince/skill-sync)**: a native macOS menu bar app for organizing coding-agent skills and MCP servers.
 - **[svgl-react](https://github.com/aryanprince/svgl-react)**: a React component library for SVG logos from SVGL.
@@ -47,13 +47,7 @@ Previously, I led **Trilogy Health's** mobile app rebuild and launch, and helped
 ![Playwright](https://img.shields.io/badge/Playwright-111111?style=flat-square)
 ![Effect](https://img.shields.io/badge/Effect-111111?style=flat-square&logo=effect&logoColor=white)
 
-I also build coding-agent harnesses with reusable skills, MCP integrations, automated review loops and scheduled performance and security checks.
-
 ## GitHub activity
-
-These cards summarize public GitHub activity and refresh daily. Most of my product work lives in private repositories.
 
 ![Public GitHub statistics](./profile/stats.svg)
 ![Languages across public repositories](./profile/top-langs.svg)
-
-Outside code, I enjoy story-driven single-player games.
