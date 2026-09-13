@@ -33,7 +33,7 @@ Previously, I led **Trilogy Health's** mobile app rebuild and launch, and helped
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square)
+![Azure](./profile/badges/azure.svg)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
@@ -44,7 +44,7 @@ Previously, I led **Trilogy Health's** mobile app rebuild and launch, and helped
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-111111?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-111111?style=flat-square&logo=sentry&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-111111?style=flat-square&logo=posthog&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-111111?style=flat-square)
+![Playwright](./profile/badges/playwright.svg)
 ![Effect](https://img.shields.io/badge/Effect-111111?style=flat-square&logo=effect&logoColor=white)
 
 ## GitHub activity
